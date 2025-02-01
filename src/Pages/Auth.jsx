@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import Button from 'react-bootstrap/Button';
-import {  loginAPI, registerAPI } from '../Services/AllAPI';
+import {  loginAPI, registerAPI } from '../Services/allAPI';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
